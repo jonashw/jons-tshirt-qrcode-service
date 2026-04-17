@@ -1,6 +1,6 @@
 //go:build tools
 
-package tools
+package function
 
 import (
 	_ "github.com/air-verse/air"
