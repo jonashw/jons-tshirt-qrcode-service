@@ -7,7 +7,7 @@ steps:
       - random-redirect
       - --gen2
       - --runtime=go125
-      - --region=us-central1
+      - --region=us-west1
       - --source=.
       - --entry-point=RandomRedirect
       - --trigger-http
